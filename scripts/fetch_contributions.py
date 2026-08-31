@@ -193,6 +193,22 @@ def build_payload(days, logins, reported):
     }
 
 
+def keep_stamp_if_unchanged(payload, out):
+    """Reuse the previous generated_at when nothing else moved.
+
+    Without this the timestamp alone differs on every run, so the daily
+    workflow would commit an identical file every single day.
+    """
+    if not out.exists():
+        return payload
+    try:
+        previous = json.loads(out.read_text(encoding="utf-8"))
+    except (ValueError, OSError):
+        return payload
+    candidate = dict(payload, generated_at=previous.get("generated_at"))
+    return candidate if candidate == previous else payload
+
+
 def main():
     root = Path(__file__).resolve().parent.parent
     parser = argparse.ArgumentParser(description="Fetch GitHub contribution data.")
@@ -231,6 +247,7 @@ def main():
     payload = build_payload(merged, logins, reported_total or None)
 
     out = Path(args.out)
+    payload = keep_stamp_if_unchanged(payload, out)
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
 
