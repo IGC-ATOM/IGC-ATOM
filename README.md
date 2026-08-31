@@ -18,8 +18,8 @@
 <p align="center"><code>parth@github ~ $ whoami</code></p>
 
 <div align="center">
-  <img src="./assets/profile/parth-ascii.svg" alt="ASCII portrait" width="380">
-  <img src="./assets/profile/info-card.svg" alt="Profile information card" width="456">
+  <img src="./assets/profile/parth-ascii.svg" alt="ASCII portrait" width="368">
+  <img src="./assets/profile/info-card.svg" alt="Profile information card" width="433">
 </div>
 
 <br>
