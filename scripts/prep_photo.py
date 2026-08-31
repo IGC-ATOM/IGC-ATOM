@@ -94,13 +94,15 @@ def main():
     parser.add_argument("--source", default=None, help="local image (default: GitHub avatar)")
     parser.add_argument("--out", default=str(root / "assets" / "profile" / "portrait-source.png"))
     parser.add_argument("--size", type=int, default=512)
-    parser.add_argument("--black-point", type=int, default=30)
+    parser.add_argument("--black-point", type=int, default=34)
     parser.add_argument("--gamma", type=float, default=0.86)
     parser.add_argument("--contrast", type=float, default=1.32)
     parser.add_argument("--cutoff", type=float, default=0.6,
                         help="autocontrast histogram cutoff percentage")
-    parser.add_argument("--crop-threshold", type=int, default=10,
-                        help="luminance above which a pixel counts as subject")
+    parser.add_argument("--crop-threshold", type=int, default=180,
+                        help="luminance above which a pixel counts as subject; "
+                             "high enough to frame the bright emblem rather "
+                             "than the near-black outline around it")
     parser.add_argument("--crop-margin", type=float, default=0.04,
                         help="breathing room kept around the subject, as a fraction")
     parser.add_argument("--no-autocrop", dest="autocrop", action="store_false")
