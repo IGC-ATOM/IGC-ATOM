@@ -1,0 +1,68 @@
+name: Update profile art
+
+# Refreshes the contribution data and heatmap once a day.
+# The portrait pipeline is intentionally NOT run here: it needs Pillow and the
+# avatar rarely changes, so it stays a local/manual step (see scripts/README).
+
+on:
+  schedule:
+    # 02:40 UTC daily (08:10 IST) — off the hour to avoid GitHub's cron peak.
+    - cron: "40 2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/fetch_contributions.py"
+      - "scripts/render_heatmap_svg.py"
+      - "scripts/requirements.txt"
+      - ".github/workflows/update-profile-art.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-art
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: python -m pip install --disable-pip-version-check -r scripts/requirements.txt
+
+      - name: Fetch contribution calendar
+        run: python scripts/fetch_contributions.py --users IGC-ATOM,parthrajpurt16
+
+      - name: Render heatmap SVG
+        run: python scripts/render_heatmap_svg.py
+
+      - name: Commit and push if changed
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Only the generated artefacts are ever committed by CI.
+          git add data/contributions.json assets/contribution/contrib-heatmap.svg
+
+          if git diff --cached --quiet; then
+            echo "No contribution changes today."
+            exit 0
+          fi
+
+          # "[skip ci]" keeps the push trigger above from re-running this job.
+          git commit -m "chore(profile): refresh contribution graph [skip ci]"
+          git push

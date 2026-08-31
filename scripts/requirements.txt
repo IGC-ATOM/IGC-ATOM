@@ -1,0 +1,4 @@
+# Daily automation only: fetch the contribution calendar and render the heatmap.
+# Deliberately tiny so the scheduled workflow installs in a couple of seconds.
+requests>=2.32,<3
+beautifulsoup4>=4.12,<5

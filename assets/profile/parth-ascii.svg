@@ -1,0 +1,958 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="392" height="392" viewBox="0 0 392 392" role="img" aria-label="ASCII rendering of Parth Rajput's GitHub avatar">
+<title>whoami &#8212; ASCII portrait</title>
+<style>
+.a{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:6.60px;white-space:pre;letter-spacing:0}
+</style>
+<rect width="392" height="392" rx="8" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="391" height="391" rx="8" fill="none" stroke="#21262d"/>
+<defs>
+<clipPath id="w0" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="7.40" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.150s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w1" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="14.40" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.178s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w2" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="21.39" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.206s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w3" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="28.39" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.234s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w4" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="35.38" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.262s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w5" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="42.38" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.290s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w6" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="49.38" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.318s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w7" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="56.37" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.346s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w8" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="63.37" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.374s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w9" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="70.36" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.402s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w10" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="77.36" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.430s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w11" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="84.36" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.458s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w12" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="91.35" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.486s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w13" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="98.35" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.514s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w14" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="105.34" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.542s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w15" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="112.34" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.570s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w16" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="119.34" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.598s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w17" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="126.33" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.626s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w18" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="133.33" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.654s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w19" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="140.32" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.682s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w20" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="147.32" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.710s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w21" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="154.32" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.738s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w22" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="161.31" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.766s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w23" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="168.31" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.794s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w24" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="175.30" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.822s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w25" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="182.30" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.850s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w26" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="189.30" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.878s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w27" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="196.29" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.906s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w28" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="203.29" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.934s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w29" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="210.28" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.962s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w30" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="217.28" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="0.990s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w31" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="224.28" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="1.018s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w32" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="231.27" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="1.046s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w33" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="238.27" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="1.074s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w34" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="245.26" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="1.102s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w35" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="252.26" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="1.130s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w36" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="259.26" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="1.158s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w37" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="266.25" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="1.186s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w38" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="273.25" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="1.214s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w39" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="280.24" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="1.242s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w40" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="287.24" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="1.270s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w41" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="294.24" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="1.298s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w42" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="301.23" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="1.326s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w43" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="308.23" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="1.354s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w44" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="315.22" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="1.382s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w45" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="322.22" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="1.410s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w46" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="329.22" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="1.438s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w47" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="336.21" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="1.466s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w48" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="343.21" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="1.494s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w49" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="350.20" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="1.522s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w50" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="357.20" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="1.550s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+<clipPath id="w51" clipPathUnits="userSpaceOnUse">
+<rect x="14.00" y="364.20" width="0" height="8.98">
+<animate attributeName="width" from="0" to="364.32" begin="1.578s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
+</rect></clipPath>
+</defs>
+<g class="a">
+<g clip-path="url(#w0)">
+<text x="73.40" y="19.41" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="77.36" y="19.41" fill="#57e08d" xml:space="preserve">c</text>
+<text x="81.32" y="19.41" fill="#238636" xml:space="preserve">:</text>
+</g>
+<g clip-path="url(#w1)">
+<text x="73.40" y="26.41" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="77.36" y="26.41" fill="#d8fde8" xml:space="preserve">@@</text>
+<text x="85.28" y="26.41" fill="#39d353" xml:space="preserve">*</text>
+<text x="89.24" y="26.41" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="101.12" y="26.41" fill="#238636" xml:space="preserve">`</text>
+</g>
+<g clip-path="url(#w2)">
+<text x="73.40" y="33.40" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="77.36" y="33.40" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="81.32" y="33.40" fill="#d8fde8" xml:space="preserve">@@</text>
+<text x="89.24" y="33.40" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="93.20" y="33.40" fill="#39d353" xml:space="preserve">+</text>
+<text x="97.16" y="33.40" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="105.08" y="33.40" fill="#238636" xml:space="preserve">`</text>
+<text x="113.00" y="33.40" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="116.96" y="33.40" fill="#57e08d" xml:space="preserve">c</text>
+<text x="120.92" y="33.40" fill="#39d353" xml:space="preserve">+</text>
+<text x="124.88" y="33.40" fill="#1b5e35" xml:space="preserve">.</text>
+</g>
+<g clip-path="url(#w3)">
+<text x="73.40" y="40.40" fill="#39d353" xml:space="preserve">+</text>
+<text x="77.36" y="40.40" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="81.32" y="40.40" fill="#d8fde8" xml:space="preserve">@@@@</text>
+<text x="97.16" y="40.40" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="101.12" y="40.40" fill="#39d353" xml:space="preserve">+</text>
+<text x="105.08" y="40.40" fill="#238636" xml:space="preserve">`</text>
+<text x="109.04" y="40.40" fill="#2ea043" xml:space="preserve">-</text>
+<text x="113.00" y="40.40" fill="#57e08d" xml:space="preserve">s</text>
+<text x="116.96" y="40.40" fill="#d8fde8" xml:space="preserve">@@</text>
+<text x="124.88" y="40.40" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="128.84" y="40.40" fill="#57e08d" xml:space="preserve">s</text>
+<text x="132.80" y="40.40" fill="#2ea043" xml:space="preserve">-</text>
+<text x="136.76" y="40.40" fill="#1b5e35" xml:space="preserve">.</text>
+</g>
+<g clip-path="url(#w4)">
+<text x="73.40" y="47.40" fill="#57e08d" xml:space="preserve">c</text>
+<text x="77.36" y="47.40" fill="#d8fde8" xml:space="preserve">@</text>
+<text x="81.32" y="47.40" fill="#8bf0b4" xml:space="preserve">#%#%</text>
+<text x="97.16" y="47.40" fill="#d8fde8" xml:space="preserve">@@@</text>
+<text x="109.04" y="47.40" fill="#8bf0b4" xml:space="preserve">%#%</text>
+<text x="120.92" y="47.40" fill="#d8fde8" xml:space="preserve">@@@@</text>
+<text x="136.76" y="47.40" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="140.72" y="47.40" fill="#39d353" xml:space="preserve">+</text>
+<text x="144.68" y="47.40" fill="#238636" xml:space="preserve">:</text>
+</g>
+<g clip-path="url(#w5)">
+<text x="73.40" y="54.39" fill="#39d353" xml:space="preserve">+</text>
+<text x="77.36" y="54.39" fill="#8bf0b4" xml:space="preserve">#%%#</text>
+<text x="93.20" y="54.39" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@@@@@</text>
+<text x="148.64" y="54.39" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="152.60" y="54.39" fill="#39d353" xml:space="preserve">+</text>
+<text x="156.56" y="54.39" fill="#238636" xml:space="preserve">:</text>
+<text x="164.48" y="54.39" fill="#238636" xml:space="preserve">:</text>
+<text x="168.44" y="54.39" fill="#2ea043" xml:space="preserve">=-</text>
+<text x="176.36" y="54.39" fill="#238636" xml:space="preserve">`</text>
+<text x="219.92" y="54.39" fill="#238636" xml:space="preserve">:</text>
+<text x="223.88" y="54.39" fill="#39d353" xml:space="preserve">*</text>
+<text x="227.84" y="54.39" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="259.52" y="54.39" fill="#39d353" xml:space="preserve">*+</text>
+</g>
+<g clip-path="url(#w6)">
+<text x="73.40" y="61.39" fill="#39d353" xml:space="preserve">+</text>
+<text x="77.36" y="61.39" fill="#57e08d" xml:space="preserve">s</text>
+<text x="81.32" y="61.39" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="85.28" y="61.39" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@@@@@@@@@@</text>
+<text x="160.52" y="61.39" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="164.48" y="61.39" fill="#d8fde8" xml:space="preserve">@@@@</text>
+<text x="180.32" y="61.39" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="184.28" y="61.39" fill="#57e08d" xml:space="preserve">c</text>
+<text x="188.24" y="61.39" fill="#39d353" xml:space="preserve">*+</text>
+<text x="196.16" y="61.39" fill="#2ea043" xml:space="preserve">=-</text>
+<text x="204.08" y="61.39" fill="#238636" xml:space="preserve">`</text>
+<text x="208.04" y="61.39" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="212.00" y="61.39" fill="#238636" xml:space="preserve">`</text>
+<text x="215.96" y="61.39" fill="#39d353" xml:space="preserve">*</text>
+<text x="219.92" y="61.39" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="223.88" y="61.39" fill="#d8fde8" xml:space="preserve">@</text>
+<text x="227.84" y="61.39" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="231.80" y="61.39" fill="#2ea043" xml:space="preserve">-</text>
+<text x="251.60" y="61.39" fill="#238636" xml:space="preserve">`</text>
+<text x="255.56" y="61.39" fill="#57e08d" xml:space="preserve">c</text>
+<text x="259.52" y="61.39" fill="#d8fde8" xml:space="preserve">@@</text>
+<text x="267.44" y="61.39" fill="#39d353" xml:space="preserve">*</text>
+</g>
+<g clip-path="url(#w7)">
+<text x="73.40" y="68.38" fill="#39d353" xml:space="preserve">+</text>
+<text x="77.36" y="68.38" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="208.04" y="68.38" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="212.00" y="68.38" fill="#d8fde8" xml:space="preserve">@@@@@@</text>
+<text x="235.76" y="68.38" fill="#57e08d" xml:space="preserve">c</text>
+<text x="239.72" y="68.38" fill="#238636" xml:space="preserve">`</text>
+<text x="247.64" y="68.38" fill="#2ea043" xml:space="preserve">-</text>
+<text x="251.60" y="68.38" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="255.56" y="68.38" fill="#d8fde8" xml:space="preserve">@@@@</text>
+<text x="271.40" y="68.38" fill="#2ea043" xml:space="preserve">-</text>
+</g>
+<g clip-path="url(#w8)">
+<text x="73.40" y="75.38" fill="#2ea043" xml:space="preserve">-</text>
+<text x="77.36" y="75.38" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="239.72" y="75.38" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="243.68" y="75.38" fill="#57e08d" xml:space="preserve">s</text>
+<text x="247.64" y="75.38" fill="#8bf0b4" xml:space="preserve">##%</text>
+<text x="259.52" y="75.38" fill="#d8fde8" xml:space="preserve">@@@</text>
+<text x="271.40" y="75.38" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="275.36" y="75.38" fill="#1b5e35" xml:space="preserve">.</text>
+</g>
+<g clip-path="url(#w9)">
+<text x="73.40" y="82.38" fill="#238636" xml:space="preserve">`</text>
+<text x="77.36" y="82.38" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="223.88" y="82.38" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="227.84" y="82.38" fill="#d8fde8" xml:space="preserve">@@@@@@</text>
+<text x="251.60" y="82.38" fill="#8bf0b4" xml:space="preserve">##</text>
+<text x="259.52" y="82.38" fill="#d8fde8" xml:space="preserve">@@@@</text>
+<text x="275.36" y="82.38" fill="#238636" xml:space="preserve">`</text>
+</g>
+<g clip-path="url(#w10)">
+<text x="49.64" y="89.37" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="53.60" y="89.37" fill="#238636" xml:space="preserve">:</text>
+<text x="77.36" y="89.37" fill="#39d353" xml:space="preserve">*</text>
+<text x="81.32" y="89.37" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="275.36" y="89.37" fill="#238636" xml:space="preserve">:</text>
+</g>
+<g clip-path="url(#w11)">
+<text x="49.64" y="96.37" fill="#238636" xml:space="preserve">`</text>
+<text x="53.60" y="96.37" fill="#39d353" xml:space="preserve">+</text>
+<text x="61.52" y="96.37" fill="#1b5e35" xml:space="preserve">..</text>
+<text x="69.44" y="96.37" fill="#238636" xml:space="preserve">:</text>
+<text x="77.36" y="96.37" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="81.32" y="96.37" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="85.28" y="96.37" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="184.28" y="96.37" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="188.24" y="96.37" fill="#57e08d" xml:space="preserve">s</text>
+<text x="192.20" y="96.37" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="275.36" y="96.37" fill="#2ea043" xml:space="preserve">=</text>
+</g>
+<g clip-path="url(#w12)">
+<text x="49.64" y="103.36" fill="#238636" xml:space="preserve">`</text>
+<text x="53.60" y="103.36" fill="#39d353" xml:space="preserve">*</text>
+<text x="57.56" y="103.36" fill="#2ea043" xml:space="preserve">-==</text>
+<text x="69.44" y="103.36" fill="#57e08d" xml:space="preserve">s</text>
+<text x="73.40" y="103.36" fill="#39d353" xml:space="preserve">+</text>
+<text x="77.36" y="103.36" fill="#2ea043" xml:space="preserve">=</text>
+<text x="81.32" y="103.36" fill="#57e08d" xml:space="preserve">s</text>
+<text x="85.28" y="103.36" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="184.28" y="103.36" fill="#39d353" xml:space="preserve">+</text>
+<text x="188.24" y="103.36" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="192.20" y="103.36" fill="#39d353" xml:space="preserve">*</text>
+<text x="196.16" y="103.36" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@</text>
+<text x="275.36" y="103.36" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="279.32" y="103.36" fill="#238636" xml:space="preserve">`</text>
+</g>
+<g clip-path="url(#w13)">
+<text x="49.64" y="110.36" fill="#238636" xml:space="preserve">`</text>
+<text x="53.60" y="110.36" fill="#2ea043" xml:space="preserve">=</text>
+<text x="57.56" y="110.36" fill="#57e08d" xml:space="preserve">c</text>
+<text x="61.52" y="110.36" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="65.48" y="110.36" fill="#57e08d" xml:space="preserve">ss</text>
+<text x="73.40" y="110.36" fill="#d8fde8" xml:space="preserve">@@@@@@@@@</text>
+<text x="109.04" y="110.36" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="113.00" y="110.36" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@@@@@@@@</text>
+<text x="180.32" y="110.36" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="184.28" y="110.36" fill="#39d353" xml:space="preserve">+</text>
+<text x="188.24" y="110.36" fill="#238636" xml:space="preserve">`</text>
+<text x="192.20" y="110.36" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="196.16" y="110.36" fill="#39d353" xml:space="preserve">*</text>
+<text x="200.12" y="110.36" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@</text>
+<text x="279.32" y="110.36" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="283.28" y="110.36" fill="#238636" xml:space="preserve">`</text>
+</g>
+<g clip-path="url(#w14)">
+<text x="53.60" y="117.36" fill="#238636" xml:space="preserve">`</text>
+<text x="57.56" y="117.36" fill="#39d353" xml:space="preserve">+</text>
+<text x="61.52" y="117.36" fill="#57e08d" xml:space="preserve">scs</text>
+<text x="73.40" y="117.36" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="77.36" y="117.36" fill="#d8fde8" xml:space="preserve">@</text>
+<text x="81.32" y="117.36" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="85.28" y="117.36" fill="#d8fde8" xml:space="preserve">@</text>
+<text x="89.24" y="117.36" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="93.20" y="117.36" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="184.28" y="117.36" fill="#57e08d" xml:space="preserve">s</text>
+<text x="188.24" y="117.36" fill="#2ea043" xml:space="preserve">=</text>
+<text x="192.20" y="117.36" fill="#238636" xml:space="preserve">::</text>
+<text x="200.12" y="117.36" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="204.08" y="117.36" fill="#d8fde8" xml:space="preserve">@@@</text>
+<text x="215.96" y="117.36" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="219.92" y="117.36" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@@@@@@@</text>
+<text x="283.28" y="117.36" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="287.24" y="117.36" fill="#1b5e35" xml:space="preserve">.</text>
+</g>
+<g clip-path="url(#w15)">
+<text x="57.56" y="124.35" fill="#2ea043" xml:space="preserve">-</text>
+<text x="61.52" y="124.35" fill="#39d353" xml:space="preserve">*</text>
+<text x="65.48" y="124.35" fill="#57e08d" xml:space="preserve">cs</text>
+<text x="73.40" y="124.35" fill="#8bf0b4" xml:space="preserve">###</text>
+<text x="85.28" y="124.35" fill="#d8fde8" xml:space="preserve">@</text>
+<text x="89.24" y="124.35" fill="#57e08d" xml:space="preserve">s</text>
+<text x="93.20" y="124.35" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@@@@@@@</text>
+<text x="156.56" y="124.35" fill="#8bf0b4" xml:space="preserve">##</text>
+<text x="164.48" y="124.35" fill="#d8fde8" xml:space="preserve">@@@@@@</text>
+<text x="188.24" y="124.35" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="192.20" y="124.35" fill="#238636" xml:space="preserve">:</text>
+<text x="196.16" y="124.35" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="200.12" y="124.35" fill="#238636" xml:space="preserve">:</text>
+<text x="204.08" y="124.35" fill="#57e08d" xml:space="preserve">cs</text>
+<text x="212.00" y="124.35" fill="#39d353" xml:space="preserve">+</text>
+<text x="215.96" y="124.35" fill="#238636" xml:space="preserve">`</text>
+<text x="219.92" y="124.35" fill="#57e08d" xml:space="preserve">c</text>
+<text x="223.88" y="124.35" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@@@@@@@</text>
+<text x="287.24" y="124.35" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="291.20" y="124.35" fill="#2ea043" xml:space="preserve">=</text>
+<text x="295.16" y="124.35" fill="#1b5e35" xml:space="preserve">.</text>
+</g>
+<g clip-path="url(#w16)">
+<text x="57.56" y="131.35" fill="#238636" xml:space="preserve">`</text>
+<text x="61.52" y="131.35" fill="#2ea043" xml:space="preserve">==</text>
+<text x="69.44" y="131.35" fill="#39d353" xml:space="preserve">*</text>
+<text x="73.40" y="131.35" fill="#57e08d" xml:space="preserve">s</text>
+<text x="77.36" y="131.35" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="81.32" y="131.35" fill="#57e08d" xml:space="preserve">s</text>
+<text x="85.28" y="131.35" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="89.24" y="131.35" fill="#57e08d" xml:space="preserve">c</text>
+<text x="93.20" y="131.35" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="97.16" y="131.35" fill="#d8fde8" xml:space="preserve">@@</text>
+<text x="105.08" y="131.35" fill="#8bf0b4" xml:space="preserve">%%</text>
+<text x="113.00" y="131.35" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@</text>
+<text x="152.60" y="131.35" fill="#2ea043" xml:space="preserve">-</text>
+<text x="160.52" y="131.35" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="164.48" y="131.35" fill="#39d353" xml:space="preserve">*</text>
+<text x="168.44" y="131.35" fill="#57e08d" xml:space="preserve">s</text>
+<text x="172.40" y="131.35" fill="#d8fde8" xml:space="preserve">@@@@@</text>
+<text x="192.20" y="131.35" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="196.16" y="131.35" fill="#39d353" xml:space="preserve">+</text>
+<text x="200.12" y="131.35" fill="#2ea043" xml:space="preserve">-</text>
+<text x="204.08" y="131.35" fill="#238636" xml:space="preserve">:</text>
+<text x="208.04" y="131.35" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="212.00" y="131.35" fill="#238636" xml:space="preserve">``</text>
+<text x="219.92" y="131.35" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="223.88" y="131.35" fill="#39d353" xml:space="preserve">+</text>
+<text x="227.84" y="131.35" fill="#d8fde8" xml:space="preserve">@@@</text>
+<text x="239.72" y="131.35" fill="#8bf0b4" xml:space="preserve">##%#%</text>
+<text x="259.52" y="131.35" fill="#d8fde8" xml:space="preserve">@@@@@@@@@</text>
+<text x="295.16" y="131.35" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="299.12" y="131.35" fill="#39d353" xml:space="preserve">*</text>
+<text x="303.08" y="131.35" fill="#238636" xml:space="preserve">`</text>
+</g>
+<g clip-path="url(#w17)">
+<text x="61.52" y="138.34" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="65.48" y="138.34" fill="#238636" xml:space="preserve">:</text>
+<text x="69.44" y="138.34" fill="#2ea043" xml:space="preserve">-</text>
+<text x="73.40" y="138.34" fill="#57e08d" xml:space="preserve">cssss</text>
+<text x="93.20" y="138.34" fill="#8bf0b4" xml:space="preserve">##%#%</text>
+<text x="113.00" y="138.34" fill="#d8fde8" xml:space="preserve">@</text>
+<text x="116.96" y="138.34" fill="#8bf0b4" xml:space="preserve">#%</text>
+<text x="124.88" y="138.34" fill="#d8fde8" xml:space="preserve">@@@@@@</text>
+<text x="148.64" y="138.34" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="168.44" y="138.34" fill="#238636" xml:space="preserve">`</text>
+<text x="172.40" y="138.34" fill="#d8fde8" xml:space="preserve">@@@@@@@@</text>
+<text x="204.08" y="138.34" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="208.04" y="138.34" fill="#2ea043" xml:space="preserve">-</text>
+<text x="212.00" y="138.34" fill="#238636" xml:space="preserve">:</text>
+<text x="215.96" y="138.34" fill="#2ea043" xml:space="preserve">=</text>
+<text x="219.92" y="138.34" fill="#238636" xml:space="preserve">``</text>
+<text x="227.84" y="138.34" fill="#2ea043" xml:space="preserve">-=-</text>
+<text x="239.72" y="138.34" fill="#238636" xml:space="preserve">`:</text>
+<text x="247.64" y="138.34" fill="#2ea043" xml:space="preserve">-</text>
+<text x="251.60" y="138.34" fill="#238636" xml:space="preserve">``::</text>
+<text x="267.44" y="138.34" fill="#39d353" xml:space="preserve">+</text>
+<text x="271.40" y="138.34" fill="#57e08d" xml:space="preserve">c</text>
+<text x="275.36" y="138.34" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="279.32" y="138.34" fill="#d8fde8" xml:space="preserve">@@@@@@</text>
+<text x="303.08" y="138.34" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="307.04" y="138.34" fill="#1b5e35" xml:space="preserve">.</text>
+</g>
+<g clip-path="url(#w18)">
+<text x="65.48" y="145.34" fill="#1b5e35" xml:space="preserve">..</text>
+<text x="73.40" y="145.34" fill="#2ea043" xml:space="preserve">-</text>
+<text x="77.36" y="145.34" fill="#39d353" xml:space="preserve">*</text>
+<text x="81.32" y="145.34" fill="#57e08d" xml:space="preserve">css</text>
+<text x="93.20" y="145.34" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="97.16" y="145.34" fill="#57e08d" xml:space="preserve">sss</text>
+<text x="109.04" y="145.34" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="113.00" y="145.34" fill="#d8fde8" xml:space="preserve">@</text>
+<text x="116.96" y="145.34" fill="#57e08d" xml:space="preserve">c</text>
+<text x="120.92" y="145.34" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="124.88" y="145.34" fill="#d8fde8" xml:space="preserve">@</text>
+<text x="128.84" y="145.34" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="132.80" y="145.34" fill="#d8fde8" xml:space="preserve">@@@</text>
+<text x="144.68" y="145.34" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="148.64" y="145.34" fill="#2ea043" xml:space="preserve">=</text>
+<text x="168.44" y="145.34" fill="#238636" xml:space="preserve">:</text>
+<text x="172.40" y="145.34" fill="#d8fde8" xml:space="preserve">@@@@@</text>
+<text x="192.20" y="145.34" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="196.16" y="145.34" fill="#57e08d" xml:space="preserve">sc</text>
+<text x="204.08" y="145.34" fill="#2ea043" xml:space="preserve">-</text>
+<text x="208.04" y="145.34" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="212.00" y="145.34" fill="#2ea043" xml:space="preserve">-</text>
+<text x="215.96" y="145.34" fill="#d8fde8" xml:space="preserve">@</text>
+<text x="219.92" y="145.34" fill="#57e08d" xml:space="preserve">c</text>
+<text x="223.88" y="145.34" fill="#238636" xml:space="preserve">`</text>
+<text x="227.84" y="145.34" fill="#1b5e35" xml:space="preserve">...</text>
+<text x="239.72" y="145.34" fill="#238636" xml:space="preserve">`</text>
+<text x="243.68" y="145.34" fill="#1b5e35" xml:space="preserve">..</text>
+<text x="251.60" y="145.34" fill="#238636" xml:space="preserve">```:</text>
+<text x="267.44" y="145.34" fill="#39d353" xml:space="preserve">+</text>
+<text x="271.40" y="145.34" fill="#8bf0b4" xml:space="preserve">#%</text>
+<text x="279.32" y="145.34" fill="#d8fde8" xml:space="preserve">@@@@@@@</text>
+<text x="307.04" y="145.34" fill="#39d353" xml:space="preserve">*</text>
+</g>
+<g clip-path="url(#w19)">
+<text x="65.48" y="152.34" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="69.44" y="152.34" fill="#2ea043" xml:space="preserve">-</text>
+<text x="73.40" y="152.34" fill="#39d353" xml:space="preserve">+*+*</text>
+<text x="89.24" y="152.34" fill="#57e08d" xml:space="preserve">s</text>
+<text x="93.20" y="152.34" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="97.16" y="152.34" fill="#57e08d" xml:space="preserve">sss</text>
+<text x="109.04" y="152.34" fill="#8bf0b4" xml:space="preserve">##</text>
+<text x="116.96" y="152.34" fill="#57e08d" xml:space="preserve">c</text>
+<text x="120.92" y="152.34" fill="#8bf0b4" xml:space="preserve">%%#</text>
+<text x="132.80" y="152.34" fill="#d8fde8" xml:space="preserve">@</text>
+<text x="136.76" y="152.34" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="140.72" y="152.34" fill="#57e08d" xml:space="preserve">s</text>
+<text x="144.68" y="152.34" fill="#2ea043" xml:space="preserve">=</text>
+<text x="148.64" y="152.34" fill="#238636" xml:space="preserve">`:</text>
+<text x="164.48" y="152.34" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="168.44" y="152.34" fill="#39d353" xml:space="preserve">*</text>
+<text x="172.40" y="152.34" fill="#d8fde8" xml:space="preserve">@@@@@</text>
+<text x="192.20" y="152.34" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="196.16" y="152.34" fill="#57e08d" xml:space="preserve">s</text>
+<text x="200.12" y="152.34" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="204.08" y="152.34" fill="#57e08d" xml:space="preserve">c</text>
+<text x="208.04" y="152.34" fill="#39d353" xml:space="preserve">+</text>
+<text x="212.00" y="152.34" fill="#2ea043" xml:space="preserve">=</text>
+<text x="215.96" y="152.34" fill="#39d353" xml:space="preserve">+</text>
+<text x="219.92" y="152.34" fill="#d8fde8" xml:space="preserve">@</text>
+<text x="223.88" y="152.34" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="227.84" y="152.34" fill="#57e08d" xml:space="preserve">c</text>
+<text x="231.80" y="152.34" fill="#2ea043" xml:space="preserve">=</text>
+<text x="235.76" y="152.34" fill="#39d353" xml:space="preserve">*+</text>
+<text x="243.68" y="152.34" fill="#2ea043" xml:space="preserve">=</text>
+<text x="247.64" y="152.34" fill="#39d353" xml:space="preserve">*</text>
+<text x="251.60" y="152.34" fill="#57e08d" xml:space="preserve">s</text>
+<text x="255.56" y="152.34" fill="#39d353" xml:space="preserve">*</text>
+<text x="259.52" y="152.34" fill="#57e08d" xml:space="preserve">s</text>
+<text x="263.48" y="152.34" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="267.44" y="152.34" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@@</text>
+<text x="311.00" y="152.34" fill="#1b5e35" xml:space="preserve">.</text>
+</g>
+<g clip-path="url(#w20)">
+<text x="69.44" y="159.33" fill="#1b5e35" xml:space="preserve">..</text>
+<text x="77.36" y="159.33" fill="#39d353" xml:space="preserve">+*</text>
+<text x="85.28" y="159.33" fill="#57e08d" xml:space="preserve">cs</text>
+<text x="93.20" y="159.33" fill="#39d353" xml:space="preserve">*</text>
+<text x="97.16" y="159.33" fill="#57e08d" xml:space="preserve">scssss</text>
+<text x="120.92" y="159.33" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="124.88" y="159.33" fill="#57e08d" xml:space="preserve">scs</text>
+<text x="136.76" y="159.33" fill="#39d353" xml:space="preserve">+</text>
+<text x="140.72" y="159.33" fill="#2ea043" xml:space="preserve">=</text>
+<text x="144.68" y="159.33" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="156.56" y="159.33" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="164.48" y="159.33" fill="#2ea043" xml:space="preserve">-</text>
+<text x="168.44" y="159.33" fill="#57e08d" xml:space="preserve">c</text>
+<text x="172.40" y="159.33" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@</text>
+<text x="212.00" y="159.33" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="215.96" y="159.33" fill="#57e08d" xml:space="preserve">s</text>
+<text x="219.92" y="159.33" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="223.88" y="159.33" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="311.00" y="159.33" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="314.96" y="159.33" fill="#39d353" xml:space="preserve">+</text>
+<text x="318.92" y="159.33" fill="#238636" xml:space="preserve">:</text>
+<text x="322.88" y="159.33" fill="#1b5e35" xml:space="preserve">.</text>
+</g>
+<g clip-path="url(#w21)">
+<text x="49.64" y="166.33" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="53.60" y="166.33" fill="#238636" xml:space="preserve">`:</text>
+<text x="61.52" y="166.33" fill="#2ea043" xml:space="preserve">-</text>
+<text x="65.48" y="166.33" fill="#39d353" xml:space="preserve">+*</text>
+<text x="73.40" y="166.33" fill="#2ea043" xml:space="preserve">-</text>
+<text x="77.36" y="166.33" fill="#57e08d" xml:space="preserve">c</text>
+<text x="81.32" y="166.33" fill="#39d353" xml:space="preserve">++</text>
+<text x="89.24" y="166.33" fill="#2ea043" xml:space="preserve">=</text>
+<text x="93.20" y="166.33" fill="#57e08d" xml:space="preserve">cs</text>
+<text x="101.12" y="166.33" fill="#2ea043" xml:space="preserve">-</text>
+<text x="105.08" y="166.33" fill="#57e08d" xml:space="preserve">cscsc</text>
+<text x="124.88" y="166.33" fill="#39d353" xml:space="preserve">*</text>
+<text x="128.84" y="166.33" fill="#57e08d" xml:space="preserve">cc</text>
+<text x="136.76" y="166.33" fill="#1b5e35" xml:space="preserve">..</text>
+<text x="144.68" y="166.33" fill="#39d353" xml:space="preserve">+*</text>
+<text x="152.60" y="166.33" fill="#8bf0b4" xml:space="preserve">%#</text>
+<text x="160.52" y="166.33" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="164.48" y="166.33" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="168.44" y="166.33" fill="#d8fde8" xml:space="preserve">@@@@@</text>
+<text x="188.24" y="166.33" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="192.20" y="166.33" fill="#d8fde8" xml:space="preserve">@@@</text>
+<text x="204.08" y="166.33" fill="#8bf0b4" xml:space="preserve">%#%</text>
+<text x="215.96" y="166.33" fill="#d8fde8" xml:space="preserve">@@</text>
+<text x="223.88" y="166.33" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="227.84" y="166.33" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="322.88" y="166.33" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="326.84" y="166.33" fill="#39d353" xml:space="preserve">*</text>
+<text x="330.80" y="166.33" fill="#2ea043" xml:space="preserve">=</text>
+<text x="334.76" y="166.33" fill="#1b5e35" xml:space="preserve">.</text>
+</g>
+<g clip-path="url(#w22)">
+<text x="29.84" y="173.32" fill="#1b5e35" xml:space="preserve">..</text>
+<text x="37.76" y="173.32" fill="#238636" xml:space="preserve">``</text>
+<text x="45.68" y="173.32" fill="#2ea043" xml:space="preserve">-=</text>
+<text x="53.60" y="173.32" fill="#39d353" xml:space="preserve">+</text>
+<text x="57.56" y="173.32" fill="#238636" xml:space="preserve">:</text>
+<text x="61.52" y="173.32" fill="#2ea043" xml:space="preserve">--=-</text>
+<text x="77.36" y="173.32" fill="#238636" xml:space="preserve">`</text>
+<text x="81.32" y="173.32" fill="#2ea043" xml:space="preserve">=</text>
+<text x="85.28" y="173.32" fill="#238636" xml:space="preserve">:</text>
+<text x="89.24" y="173.32" fill="#2ea043" xml:space="preserve">-=-</text>
+<text x="101.12" y="173.32" fill="#238636" xml:space="preserve">:</text>
+<text x="105.08" y="173.32" fill="#2ea043" xml:space="preserve">=</text>
+<text x="109.04" y="173.32" fill="#39d353" xml:space="preserve">+</text>
+<text x="113.00" y="173.32" fill="#2ea043" xml:space="preserve">-</text>
+<text x="116.96" y="173.32" fill="#39d353" xml:space="preserve">+</text>
+<text x="120.92" y="173.32" fill="#2ea043" xml:space="preserve">-=</text>
+<text x="128.84" y="173.32" fill="#39d353" xml:space="preserve">+</text>
+<text x="132.80" y="173.32" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="140.72" y="173.32" fill="#39d353" xml:space="preserve">+</text>
+<text x="144.68" y="173.32" fill="#57e08d" xml:space="preserve">s</text>
+<text x="148.64" y="173.32" fill="#8bf0b4" xml:space="preserve">##</text>
+<text x="156.56" y="173.32" fill="#57e08d" xml:space="preserve">s</text>
+<text x="160.52" y="173.32" fill="#238636" xml:space="preserve">`</text>
+<text x="164.48" y="173.32" fill="#39d353" xml:space="preserve">*</text>
+<text x="168.44" y="173.32" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="172.40" y="173.32" fill="#57e08d" xml:space="preserve">c</text>
+<text x="176.36" y="173.32" fill="#8bf0b4" xml:space="preserve">##</text>
+<text x="184.28" y="173.32" fill="#57e08d" xml:space="preserve">csssc</text>
+<text x="204.08" y="173.32" fill="#39d353" xml:space="preserve">*</text>
+<text x="208.04" y="173.32" fill="#57e08d" xml:space="preserve">s</text>
+<text x="212.00" y="173.32" fill="#39d353" xml:space="preserve">*</text>
+<text x="215.96" y="173.32" fill="#57e08d" xml:space="preserve">ccsccs</text>
+<text x="239.72" y="173.32" fill="#39d353" xml:space="preserve">**+*</text>
+<text x="255.56" y="173.32" fill="#57e08d" xml:space="preserve">cccs</text>
+<text x="271.40" y="173.32" fill="#8bf0b4" xml:space="preserve">%%</text>
+<text x="279.32" y="173.32" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@@@@@</text>
+<text x="334.76" y="173.32" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="338.72" y="173.32" fill="#39d353" xml:space="preserve">*</text>
+<text x="342.68" y="173.32" fill="#238636" xml:space="preserve">`</text>
+</g>
+<g clip-path="url(#w23)">
+<text x="29.84" y="180.32" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="37.76" y="180.32" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="45.68" y="180.32" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="73.40" y="180.32" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="109.04" y="180.32" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="120.92" y="180.32" fill="#1b5e35" xml:space="preserve">..</text>
+<text x="140.72" y="180.32" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="148.64" y="180.32" fill="#1b5e35" xml:space="preserve">...</text>
+<text x="164.48" y="180.32" fill="#1b5e35" xml:space="preserve">..</text>
+<text x="176.36" y="180.32" fill="#238636" xml:space="preserve">`</text>
+<text x="180.32" y="180.32" fill="#1b5e35" xml:space="preserve">.....</text>
+<text x="204.08" y="180.32" fill="#1b5e35" xml:space="preserve">..</text>
+<text x="219.92" y="180.32" fill="#1b5e35" xml:space="preserve">..</text>
+<text x="267.44" y="180.32" fill="#1b5e35" xml:space="preserve">..</text>
+<text x="275.36" y="180.32" fill="#238636" xml:space="preserve">`</text>
+<text x="279.32" y="180.32" fill="#2ea043" xml:space="preserve">=</text>
+<text x="283.28" y="180.32" fill="#57e08d" xml:space="preserve">c</text>
+<text x="287.24" y="180.32" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="291.20" y="180.32" fill="#d8fde8" xml:space="preserve">@@@@@@@@@@@@@@</text>
+<text x="346.64" y="180.32" fill="#57e08d" xml:space="preserve">c</text>
+<text x="350.60" y="180.32" fill="#238636" xml:space="preserve">`</text>
+</g>
+<g clip-path="url(#w24)">
+<text x="287.24" y="187.32" fill="#238636" xml:space="preserve">:</text>
+<text x="291.20" y="187.32" fill="#57e08d" xml:space="preserve">c</text>
+<text x="295.16" y="187.32" fill="#d8fde8" xml:space="preserve">@@@@@</text>
+<text x="314.96" y="187.32" fill="#8bf0b4" xml:space="preserve">%%#</text>
+<text x="326.84" y="187.32" fill="#57e08d" xml:space="preserve">ccs</text>
+<text x="338.72" y="187.32" fill="#8bf0b4" xml:space="preserve">#%</text>
+<text x="346.64" y="187.32" fill="#d8fde8" xml:space="preserve">@</text>
+<text x="350.60" y="187.32" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="354.56" y="187.32" fill="#2ea043" xml:space="preserve">=</text>
+</g>
+<g clip-path="url(#w25)">
+<text x="275.36" y="194.31" fill="#1b5e35" xml:space="preserve">...</text>
+<text x="287.24" y="194.31" fill="#238636" xml:space="preserve">``</text>
+<text x="295.16" y="194.31" fill="#2ea043" xml:space="preserve">=</text>
+<text x="299.12" y="194.31" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="303.08" y="194.31" fill="#d8fde8" xml:space="preserve">@@@</text>
+<text x="314.96" y="194.31" fill="#8bf0b4" xml:space="preserve">%#</text>
+<text x="322.88" y="194.31" fill="#57e08d" xml:space="preserve">sc</text>
+<text x="330.80" y="194.31" fill="#39d353" xml:space="preserve">+</text>
+<text x="334.76" y="194.31" fill="#238636" xml:space="preserve">:</text>
+<text x="338.72" y="194.31" fill="#1b5e35" xml:space="preserve">....</text>
+<text x="354.56" y="194.31" fill="#238636" xml:space="preserve">`</text>
+</g>
+<g clip-path="url(#w26)">
+<text x="271.40" y="201.31" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="275.36" y="201.31" fill="#238636" xml:space="preserve">`:</text>
+<text x="283.28" y="201.31" fill="#2ea043" xml:space="preserve">-=</text>
+<text x="291.20" y="201.31" fill="#39d353" xml:space="preserve">*</text>
+<text x="295.16" y="201.31" fill="#57e08d" xml:space="preserve">c</text>
+<text x="299.12" y="201.31" fill="#8bf0b4" xml:space="preserve">%</text>
+<text x="303.08" y="201.31" fill="#d8fde8" xml:space="preserve">@@@@@</text>
+<text x="322.88" y="201.31" fill="#57e08d" xml:space="preserve">c</text>
+<text x="326.84" y="201.31" fill="#238636" xml:space="preserve">:</text>
+</g>
+<g clip-path="url(#w27)">
+<text x="291.20" y="208.30" fill="#238636" xml:space="preserve">:</text>
+<text x="295.16" y="208.30" fill="#2ea043" xml:space="preserve">=</text>
+<text x="299.12" y="208.30" fill="#39d353" xml:space="preserve">*</text>
+<text x="303.08" y="208.30" fill="#57e08d" xml:space="preserve">ccccc</text>
+<text x="322.88" y="208.30" fill="#238636" xml:space="preserve">`</text>
+</g>
+<g clip-path="url(#w30)">
+<text x="89.24" y="229.29" fill="#1b5e35" xml:space="preserve">.......</text>
+</g>
+<g clip-path="url(#w31)">
+<text x="85.28" y="236.29" fill="#238636" xml:space="preserve">`:```````</text>
+<text x="120.92" y="236.29" fill="#1b5e35" xml:space="preserve">.....</text>
+<text x="140.72" y="236.29" fill="#238636" xml:space="preserve">```</text>
+<text x="287.24" y="236.29" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="291.20" y="236.29" fill="#238636" xml:space="preserve">:</text>
+<text x="295.16" y="236.29" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="318.92" y="236.29" fill="#1b5e35" xml:space="preserve">.</text>
+</g>
+<g clip-path="url(#w32)">
+<text x="81.32" y="243.28" fill="#2ea043" xml:space="preserve">-=-</text>
+<text x="93.20" y="243.28" fill="#238636" xml:space="preserve">:</text>
+<text x="97.16" y="243.28" fill="#2ea043" xml:space="preserve">-</text>
+<text x="101.12" y="243.28" fill="#238636" xml:space="preserve">:::::``:</text>
+<text x="132.80" y="243.28" fill="#2ea043" xml:space="preserve">-</text>
+<text x="136.76" y="243.28" fill="#238636" xml:space="preserve">:`</text>
+<text x="144.68" y="243.28" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="283.28" y="243.28" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="287.24" y="243.28" fill="#2ea043" xml:space="preserve">=</text>
+<text x="291.20" y="243.28" fill="#238636" xml:space="preserve">`</text>
+<text x="314.96" y="243.28" fill="#238636" xml:space="preserve">`:</text>
+</g>
+<g clip-path="url(#w33)">
+<text x="77.36" y="250.28" fill="#2ea043" xml:space="preserve">-</text>
+<text x="81.32" y="250.28" fill="#39d353" xml:space="preserve">+</text>
+<text x="85.28" y="250.28" fill="#2ea043" xml:space="preserve">====---</text>
+<text x="113.00" y="250.28" fill="#238636" xml:space="preserve">:</text>
+<text x="116.96" y="250.28" fill="#2ea043" xml:space="preserve">--=</text>
+<text x="128.84" y="250.28" fill="#238636" xml:space="preserve">:`</text>
+<text x="283.28" y="250.28" fill="#238636" xml:space="preserve">:</text>
+<text x="287.24" y="250.28" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="314.96" y="250.28" fill="#238636" xml:space="preserve">`</text>
+</g>
+<g clip-path="url(#w34)">
+<text x="65.48" y="257.28" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="73.40" y="257.28" fill="#2ea043" xml:space="preserve">-</text>
+<text x="77.36" y="257.28" fill="#57e08d" xml:space="preserve">c</text>
+<text x="81.32" y="257.28" fill="#39d353" xml:space="preserve">*+++++</text>
+<text x="105.08" y="257.28" fill="#2ea043" xml:space="preserve">=</text>
+<text x="109.04" y="257.28" fill="#39d353" xml:space="preserve">++</text>
+<text x="116.96" y="257.28" fill="#2ea043" xml:space="preserve">=</text>
+<text x="120.92" y="257.28" fill="#238636" xml:space="preserve">:</text>
+<text x="124.88" y="257.28" fill="#1b5e35" xml:space="preserve">.</text>
+</g>
+<g clip-path="url(#w35)">
+<text x="61.52" y="264.27" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="69.44" y="264.27" fill="#2ea043" xml:space="preserve">-</text>
+<text x="73.40" y="264.27" fill="#57e08d" xml:space="preserve">sccc</text>
+<text x="89.24" y="264.27" fill="#39d353" xml:space="preserve">***</text>
+<text x="101.12" y="264.27" fill="#57e08d" xml:space="preserve">c</text>
+<text x="105.08" y="264.27" fill="#39d353" xml:space="preserve">*</text>
+<text x="109.04" y="264.27" fill="#2ea043" xml:space="preserve">=</text>
+<text x="113.00" y="264.27" fill="#238636" xml:space="preserve">`</text>
+</g>
+<g clip-path="url(#w36)">
+<text x="57.56" y="271.27" fill="#1b5e35" xml:space="preserve">..</text>
+<text x="65.48" y="271.27" fill="#238636" xml:space="preserve">:</text>
+<text x="69.44" y="271.27" fill="#57e08d" xml:space="preserve">ssccsss</text>
+<text x="97.16" y="271.27" fill="#39d353" xml:space="preserve">*</text>
+<text x="101.12" y="271.27" fill="#2ea043" xml:space="preserve">-</text>
+<text x="105.08" y="271.27" fill="#1b5e35" xml:space="preserve">.</text>
+</g>
+<g clip-path="url(#w37)">
+<text x="53.60" y="278.26" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="57.56" y="278.26" fill="#238636" xml:space="preserve">`:</text>
+<text x="65.48" y="278.26" fill="#57e08d" xml:space="preserve">sscsss</text>
+<text x="89.24" y="278.26" fill="#39d353" xml:space="preserve">+</text>
+<text x="93.20" y="278.26" fill="#238636" xml:space="preserve">`</text>
+<text x="168.44" y="278.26" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="235.76" y="278.26" fill="#1b5e35" xml:space="preserve">.</text>
+</g>
+<g clip-path="url(#w38)">
+<text x="49.64" y="285.26" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="53.60" y="285.26" fill="#238636" xml:space="preserve">``</text>
+<text x="61.52" y="285.26" fill="#57e08d" xml:space="preserve">ssssc</text>
+<text x="81.32" y="285.26" fill="#2ea043" xml:space="preserve">-</text>
+<text x="85.28" y="285.26" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="128.84" y="285.26" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="160.52" y="285.26" fill="#1b5e35" xml:space="preserve">..</text>
+<text x="235.76" y="285.26" fill="#1b5e35" xml:space="preserve">.</text>
+</g>
+<g clip-path="url(#w39)">
+<text x="45.68" y="292.26" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="49.64" y="292.26" fill="#238636" xml:space="preserve">:`</text>
+<text x="57.56" y="292.26" fill="#57e08d" xml:space="preserve">c</text>
+<text x="61.52" y="292.26" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="65.48" y="292.26" fill="#57e08d" xml:space="preserve">s</text>
+<text x="69.44" y="292.26" fill="#39d353" xml:space="preserve">+</text>
+<text x="73.40" y="292.26" fill="#238636" xml:space="preserve">:</text>
+<text x="116.96" y="292.26" fill="#1b5e35" xml:space="preserve">....</text>
+<text x="156.56" y="292.26" fill="#1b5e35" xml:space="preserve">..</text>
+<text x="227.84" y="292.26" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="235.76" y="292.26" fill="#1b5e35" xml:space="preserve">.</text>
+</g>
+<g clip-path="url(#w40)">
+<text x="41.72" y="299.25" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="45.68" y="299.25" fill="#238636" xml:space="preserve">:</text>
+<text x="49.64" y="299.25" fill="#2ea043" xml:space="preserve">-</text>
+<text x="53.60" y="299.25" fill="#57e08d" xml:space="preserve">cs</text>
+<text x="61.52" y="299.25" fill="#2ea043" xml:space="preserve">=</text>
+<text x="65.48" y="299.25" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="116.96" y="299.25" fill="#1b5e35" xml:space="preserve">.......</text>
+<text x="148.64" y="299.25" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="152.60" y="299.25" fill="#238636" xml:space="preserve">`</text>
+<text x="156.56" y="299.25" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="223.88" y="299.25" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="227.84" y="299.25" fill="#238636" xml:space="preserve">`</text>
+<text x="231.80" y="299.25" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="235.76" y="299.25" fill="#238636" xml:space="preserve">``</text>
+</g>
+<g clip-path="url(#w41)">
+<text x="37.76" y="306.25" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="41.72" y="306.25" fill="#2ea043" xml:space="preserve">==</text>
+<text x="49.64" y="306.25" fill="#39d353" xml:space="preserve">+</text>
+<text x="53.60" y="306.25" fill="#2ea043" xml:space="preserve">-</text>
+<text x="116.96" y="306.25" fill="#238636" xml:space="preserve">`</text>
+<text x="120.92" y="306.25" fill="#1b5e35" xml:space="preserve">......</text>
+<text x="144.68" y="306.25" fill="#238636" xml:space="preserve">`:</text>
+<text x="152.60" y="306.25" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="223.88" y="306.25" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="227.84" y="306.25" fill="#2ea043" xml:space="preserve">--</text>
+<text x="235.76" y="306.25" fill="#238636" xml:space="preserve">::`</text>
+</g>
+<g clip-path="url(#w42)">
+<text x="37.76" y="313.24" fill="#1b5e35" xml:space="preserve">...</text>
+<text x="113.00" y="313.24" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="116.96" y="313.24" fill="#238636" xml:space="preserve">`````</text>
+<text x="136.76" y="313.24" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="140.72" y="313.24" fill="#238636" xml:space="preserve">::</text>
+<text x="148.64" y="313.24" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="215.96" y="313.24" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="227.84" y="313.24" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="231.80" y="313.24" fill="#238636" xml:space="preserve">:</text>
+<text x="235.76" y="313.24" fill="#39d353" xml:space="preserve">+*+</text>
+<text x="247.64" y="313.24" fill="#2ea043" xml:space="preserve">=</text>
+<text x="251.60" y="313.24" fill="#1b5e35" xml:space="preserve">.</text>
+</g>
+<g clip-path="url(#w43)">
+<text x="113.00" y="320.24" fill="#238636" xml:space="preserve">`::```</text>
+<text x="136.76" y="320.24" fill="#2ea043" xml:space="preserve">-</text>
+<text x="140.72" y="320.24" fill="#238636" xml:space="preserve">:</text>
+<text x="219.92" y="320.24" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="235.76" y="320.24" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="239.72" y="320.24" fill="#238636" xml:space="preserve">:</text>
+<text x="243.68" y="320.24" fill="#2ea043" xml:space="preserve">-=-</text>
+<text x="255.56" y="320.24" fill="#1b5e35" xml:space="preserve">.</text>
+</g>
+<g clip-path="url(#w44)">
+<text x="113.00" y="327.24" fill="#2ea043" xml:space="preserve">-----=</text>
+<text x="136.76" y="327.24" fill="#238636" xml:space="preserve">:</text>
+<text x="219.92" y="327.24" fill="#1b5e35" xml:space="preserve">.</text>
+</g>
+<g clip-path="url(#w45)">
+<text x="109.04" y="334.23" fill="#238636" xml:space="preserve">`</text>
+<text x="113.00" y="334.23" fill="#39d353" xml:space="preserve">+</text>
+<text x="116.96" y="334.23" fill="#2ea043" xml:space="preserve">==</text>
+<text x="124.88" y="334.23" fill="#39d353" xml:space="preserve">+*</text>
+<text x="132.80" y="334.23" fill="#238636" xml:space="preserve">`</text>
+<text x="219.92" y="334.23" fill="#1b5e35" xml:space="preserve">..</text>
+<text x="243.68" y="334.23" fill="#238636" xml:space="preserve">`:</text>
+<text x="267.44" y="334.23" fill="#1b5e35" xml:space="preserve">.</text>
+</g>
+<g clip-path="url(#w46)">
+<text x="109.04" y="341.23" fill="#2ea043" xml:space="preserve">-</text>
+<text x="113.00" y="341.23" fill="#57e08d" xml:space="preserve">c</text>
+<text x="116.96" y="341.23" fill="#39d353" xml:space="preserve">+</text>
+<text x="120.92" y="341.23" fill="#57e08d" xml:space="preserve">s</text>
+<text x="124.88" y="341.23" fill="#39d353" xml:space="preserve">*</text>
+<text x="128.84" y="341.23" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="223.88" y="341.23" fill="#238636" xml:space="preserve">`</text>
+<text x="243.68" y="341.23" fill="#238636" xml:space="preserve">:</text>
+<text x="247.64" y="341.23" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="263.48" y="341.23" fill="#1b5e35" xml:space="preserve">..</text>
+</g>
+<g clip-path="url(#w47)">
+<text x="109.04" y="348.22" fill="#2ea043" xml:space="preserve">=</text>
+<text x="113.00" y="348.22" fill="#57e08d" xml:space="preserve">ss</text>
+<text x="120.92" y="348.22" fill="#39d353" xml:space="preserve">+</text>
+<text x="223.88" y="348.22" fill="#238636" xml:space="preserve">`</text>
+<text x="227.84" y="348.22" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="239.72" y="348.22" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="243.68" y="348.22" fill="#238636" xml:space="preserve">`</text>
+<text x="263.48" y="348.22" fill="#1b5e35" xml:space="preserve">.</text>
+</g>
+<g clip-path="url(#w48)">
+<text x="109.04" y="355.22" fill="#39d353" xml:space="preserve">*</text>
+<text x="113.00" y="355.22" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="116.96" y="355.22" fill="#2ea043" xml:space="preserve">=</text>
+<text x="223.88" y="355.22" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="227.84" y="355.22" fill="#238636" xml:space="preserve">`</text>
+<text x="239.72" y="355.22" fill="#1b5e35" xml:space="preserve">.</text>
+</g>
+<g clip-path="url(#w49)">
+<text x="105.08" y="362.22" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="109.04" y="362.22" fill="#8bf0b4" xml:space="preserve">#</text>
+<text x="113.00" y="362.22" fill="#2ea043" xml:space="preserve">-</text>
+<text x="215.96" y="362.22" fill="#1b5e35" xml:space="preserve">..</text>
+<text x="227.84" y="362.22" fill="#2ea043" xml:space="preserve">-</text>
+<text x="231.80" y="362.22" fill="#238636" xml:space="preserve">`</text>
+</g>
+<g clip-path="url(#w50)">
+<text x="101.12" y="369.21" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="105.08" y="369.21" fill="#238636" xml:space="preserve">::</text>
+<text x="219.92" y="369.21" fill="#1b5e35" xml:space="preserve">..</text>
+<text x="227.84" y="369.21" fill="#238636" xml:space="preserve">:</text>
+<text x="231.80" y="369.21" fill="#39d353" xml:space="preserve">*</text>
+<text x="235.76" y="369.21" fill="#238636" xml:space="preserve">```</text>
+<text x="247.64" y="369.21" fill="#1b5e35" xml:space="preserve">..</text>
+</g>
+<g clip-path="url(#w51)">
+<text x="223.88" y="376.21" fill="#1b5e35" xml:space="preserve">.</text>
+<text x="227.84" y="376.21" fill="#2ea043" xml:space="preserve">-</text>
+<text x="231.80" y="376.21" fill="#39d353" xml:space="preserve">*</text>
+<text x="235.76" y="376.21" fill="#238636" xml:space="preserve">:`</text>
+<text x="243.68" y="376.21" fill="#1b5e35" xml:space="preserve">..</text>
+</g>
+</g>
+<rect width="4.36" height="6.44" fill="#39d353" opacity="0">
+<animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.04;0.9;1" begin="0.150s" dur="2.02s" fill="freeze"/>
+<animate attributeName="x" values="14.00;378.32" begin="0.150s" dur="1.77s" fill="freeze"/>
+<animate attributeName="y" values="13.34;370.80" begin="0.150s" dur="1.77s" fill="freeze"/>
+</rect>
+</svg>

@@ -1,0 +1,4 @@
+# Portrait pipeline (prep_photo.py + make_ascii_svg.py). Run locally when the
+# avatar changes -- intentionally NOT installed by the daily workflow.
+requests>=2.32,<3
+pillow>=10.0
