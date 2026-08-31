@@ -30,7 +30,7 @@ CELL = 12          # cell edge
 GAP = 3            # gap between cells
 RADIUS = 2.5
 LEFT = 34          # room for weekday labels
-TOP = 58           # room for title + month labels
+TOP = 70           # room for title, scope line and month labels
 BOTTOM = 46        # room for the legend row
 RIGHT = 20
 
@@ -91,7 +91,7 @@ def plural(n, word):
     return "%d %s" % (n, word if n == 1 else word + "s")
 
 
-def render(payload, empty_note):
+def render(payload, scope_note="public repository activity only"):
     days = payload["days"]
     stats = payload["stats"]
     weeks = build_grid(days)
@@ -144,13 +144,13 @@ def render(payload, empty_note):
 
     # ---- header ----
     add('<g class="mono chrome" style="animation-delay:0.05s">')
-    add('<text x="%d" y="24" class="a">contributions</text>' % LEFT)
-    if is_empty:
-        head = empty_note
-    else:
-        head = "%s in the last year" % plural(total, "contribution")
-    add('<text x="%d" y="24" class="m" text-anchor="end">%s</text>'
-        % (width - RIGHT, escape(head)))
+    add('<text x="%d" y="22" class="a">contributions</text>' % LEFT)
+    add('<text x="%d" y="22" class="m" text-anchor="end">%s</text>'
+        % (width - RIGHT, escape("%s · last 12 months"
+                                 % plural(total, "public contribution"))))
+    # Only the public calendar is readable without a token, so the graph states
+    # its own scope. It must never imply this is all of Parth's activity.
+    add('<text x="%d" y="38" class="m">%s</text>' % (LEFT, escape(scope_note)))
     add('</g>')
 
     # ---- month labels ----
@@ -201,16 +201,16 @@ def render(payload, empty_note):
         % (lx + len(PALETTE) * (CELL + GAP) + 6, legend_y + 10))
 
     if is_empty:
-        summary = ""
+        summary = "private repository activity is not included"
     else:
         parts = [
-            "%s current streak" % plural(stats["current_streak"], "day"),
-            "%s longest" % plural(stats["longest_streak"], "day"),
+            "%s active" % plural(stats["active_days"], "day"),
+            "%s longest streak" % plural(stats["longest_streak"], "day"),
         ]
         best = stats.get("best_day")
         if best:
             parts.append("best %d on %s" % (best["count"], human(best["date"])))
-        summary = "  ".join(parts)
+        summary = "  ·  ".join(parts)
     if summary:
         add('<text x="%d" y="%d" class="m" text-anchor="end">%s</text>'
             % (width - RIGHT, legend_y + 10, escape(summary)))
@@ -225,13 +225,13 @@ def main():
     parser = argparse.ArgumentParser(description="Render the contribution heatmap SVG.")
     parser.add_argument("--data", default=str(root / "data" / "contributions.json"))
     parser.add_argument("--out", default=str(root / "assets" / "contribution" / "contrib-heatmap.svg"))
-    parser.add_argument("--empty-note",
-                        default="private contributions hidden",
-                        help="header text used when the calendar has no public activity")
+    parser.add_argument("--scope-note",
+                        default="public repository activity only · private contributions not included",
+                        help="scope label shown beside the contribution total")
     args = parser.parse_args()
 
     payload = json.loads(Path(args.data).read_text(encoding="utf-8"))
-    svg = render(payload, args.empty_note)
+    svg = render(payload, args.scope_note)
 
     out = Path(args.out)
     out.parent.mkdir(parents=True, exist_ok=True)

@@ -37,28 +37,29 @@ WIDTH = 468
 
 LABEL_W = 92  # x-offset of the value column
 
-# Row kinds: kv, head, tree, rule, gap
+# Row kinds: kv, cont (value-only continuation of the row above), head, tree, rule
 ROWS = [
     ("kv", "USER", "Parth Rajput", VALUE),
     ("kv", "HANDLE", "IGC-ATOM", CYAN),
     ("kv", "ROLE", "Full-Stack Developer", VALUE),
-    ("kv", "FOCUS", "Web · Mobile · AI", VALUE),
+    ("cont", None, "Flutter Developer", VALUE),
+    ("cont", None, "AI/ML Enthusiast", VALUE),
     ("kv", "EDUCATION", "MCA", VALUE),
     ("kv", "LOCATION", "Gujarat, India", VALUE),
     ("rule", None, None, None),
     ("head", "STACK", None, None),
-    ("tree", "├─", "React / Next.js / TypeScript", VALUE),
-    ("tree", "├─", "Node.js / Express / REST APIs", VALUE),
+    ("tree", "├─", "React / Next.js", VALUE),
+    ("tree", "├─", "Node.js / Express", VALUE),
     ("tree", "├─", "Flutter / Dart", VALUE),
-    ("tree", "├─", "Python / Java / PHP", VALUE),
+    ("tree", "├─", "Python", VALUE),
     ("tree", "├─", "PostgreSQL / MongoDB / SQLite", VALUE),
-    ("tree", "├─", "Prisma / Firebase / Cloudflare", VALUE),
-    ("tree", "└─", "OpenAI / Gemini / Claude", VALUE),
+    ("tree", "├─", "Prisma", VALUE),
+    ("tree", "└─", "AI APIs", VALUE),
     ("rule", None, None, None),
     ("head", "BUILDING", None, None),
     ("tree", "├─", "SaaS Applications", VALUE),
-    ("tree", "├─", "AI-Powered Applications", VALUE),
-    ("tree", "└─", "Business & POS Software", VALUE),
+    ("tree", "├─", "AI Applications", VALUE),
+    ("tree", "└─", "Business Software", VALUE),
     ("rule", None, None, None),
     ("kv", "STATUS", "Building", GREEN),
 ]
@@ -125,6 +126,10 @@ def render():
             add('<text class="m r" x="%d" y="%.1f" fill="%s" '
                 'font-weight="600" letter-spacing="1.1"%s>%s</text>'
                 % (PAD_X, baseline, GREEN, style, escape(a)))
+        elif kind == "cont":
+            # Continuation of the key above: value column only, no label.
+            add('<text class="m r" x="%d" y="%.1f" fill="%s"%s>%s</text>'
+                % (PAD_X + LABEL_W, baseline, colour, style, escape(b)))
         elif kind == "tree":
             add('<g class="r"%s>' % style)
             add('<text class="m" x="%d" y="%.1f" fill="%s">%s</text>'

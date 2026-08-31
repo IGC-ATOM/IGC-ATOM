@@ -83,7 +83,7 @@ def segments(line):
     return runs
 
 
-def render(grid, font_size, pad):
+def render(grid, font_size, pad, weight):
     cols = max(len(r) for r in grid)
     advance = font_size * ADVANCE_EM
     line_h = font_size * LINE_EM
@@ -102,9 +102,11 @@ def render(grid, font_size, pad):
     add('<title>whoami &#8212; ASCII portrait</title>')
 
     add('<style>')
+    # A heavier weight matters at this glyph size: '@' is mostly hole at 8px,
+    # so a normal weight makes dense regions read as grey haze instead of mass.
     add('.a{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,'
-        '"Liberation Mono",monospace;font-size:%.2fpx;white-space:pre;'
-        'letter-spacing:0}' % font_size)
+        '"Liberation Mono",monospace;font-size:%.2fpx;font-weight:%s;'
+        'white-space:pre;letter-spacing:0}' % (font_size, weight))
     add('</style>')
 
     add('<rect width="%d" height="%d" rx="8" fill="%s"/>' % (width, height, BG))
@@ -165,9 +167,13 @@ def main():
     parser = argparse.ArgumentParser(description="Build the animated ASCII portrait SVG.")
     parser.add_argument("--source", default=str(root / "assets" / "profile" / "portrait-source.png"))
     parser.add_argument("--out", default=str(root / "assets" / "profile" / "parth-ascii.svg"))
-    parser.add_argument("--cols", type=int, default=92, help="character columns (80-110)")
-    parser.add_argument("--font-size", type=float, default=6.6)
-    parser.add_argument("--pad", type=float, default=14)
+    # 72 columns at 7.92px renders ~366px wide, which is 1:1 with the width the
+    # README asks for. More columns look finer in a text editor but collapse to
+    # 4px glyphs on GitHub, where the art stops reading as anything.
+    parser.add_argument("--cols", type=int, default=72, help="character columns")
+    parser.add_argument("--font-size", type=float, default=7.92)
+    parser.add_argument("--pad", type=float, default=12)
+    parser.add_argument("--weight", default="700", help="font-weight for the art")
     parser.add_argument("--no-invert", dest="invert", action="store_false",
                         help="print-style mapping: dark pixels get dense glyphs")
     parser.add_argument("--preview", action="store_true", help="print the ASCII to stdout")
@@ -181,7 +187,7 @@ def main():
         for line in grid:
             print(line)
 
-    svg = render(grid, args.font_size, args.pad)
+    svg = render(grid, args.font_size, args.pad, args.weight)
     out = Path(args.out)
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(svg, encoding="utf-8")

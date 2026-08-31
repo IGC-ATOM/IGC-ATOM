@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="468" height="398" viewBox="0 0 468 398" role="img" aria-label="Profile summary card for Parth Rajput">
+<svg xmlns="http://www.w3.org/2000/svg" width="468" height="414" viewBox="0 0 468 414" role="img" aria-label="Profile summary card for Parth Rajput">
 <title>parth@github &#8212; profile</title>
 <style>
 .m{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:11.5px}
@@ -6,7 +6,7 @@
 @keyframes in{from{opacity:0;transform:translateX(-7px)}to{opacity:1;transform:translateX(0)}}
 @media (prefers-reduced-motion:reduce){.r{animation-duration:.01s;animation-delay:0s!important}}
 </style>
-<rect width="468" height="398" rx="8" fill="#0d1117"/>
+<rect width="468" height="414" rx="8" fill="#0d1117"/>
 <path d="M0 8a8 8 0 0 1 8-8h452 a8 8 0 0 1 8 8v26 H0Z" fill="#161b22"/>
 <line x1="0" y1="34" x2="468" y2="34" stroke="#21262d"/>
 <circle cx="20" cy="17" r="4.5" fill="#ff5f57" opacity="0.85"/>
@@ -29,70 +29,67 @@
 <text class="m" x="102" y="89.3" fill="#484f58">:</text>
 <text class="m" x="112" y="89.3" fill="#c9d1d9">Full-Stack Developer</text>
 </g>
-<g class="r" style="animation-delay:0.335s">
-<text class="m" x="20" y="104.5" fill="#7d8590">FOCUS</text>
-<text class="m" x="102" y="104.5" fill="#484f58">:</text>
-<text class="m" x="112" y="104.5" fill="#c9d1d9">Web · Mobile · AI</text>
-</g>
-<g class="r" style="animation-delay:0.380s">
-<text class="m" x="20" y="119.7" fill="#7d8590">EDUCATION</text>
-<text class="m" x="102" y="119.7" fill="#484f58">:</text>
-<text class="m" x="112" y="119.7" fill="#c9d1d9">MCA</text>
-</g>
+<text class="m r" x="112" y="104.5" fill="#c9d1d9" style="animation-delay:0.335s">Flutter Developer</text>
+<text class="m r" x="112" y="119.7" fill="#c9d1d9" style="animation-delay:0.380s">AI/ML Enthusiast</text>
 <g class="r" style="animation-delay:0.425s">
-<text class="m" x="20" y="134.9" fill="#7d8590">LOCATION</text>
+<text class="m" x="20" y="134.9" fill="#7d8590">EDUCATION</text>
 <text class="m" x="102" y="134.9" fill="#484f58">:</text>
-<text class="m" x="112" y="134.9" fill="#c9d1d9">Gujarat, India</text>
+<text class="m" x="112" y="134.9" fill="#c9d1d9">MCA</text>
 </g>
-<line class="r" x1="20" y1="146.8" x2="448" y2="146.8" stroke="#21262d" style="animation-delay:0.470s"/>
-<text class="m r" x="20" y="165.3" fill="#39d353" font-weight="600" letter-spacing="1.1" style="animation-delay:0.515s">STACK</text>
-<g class="r" style="animation-delay:0.560s">
-<text class="m" x="28" y="180.5" fill="#3d444d">├─</text>
-<text class="m" x="50" y="180.5" fill="#c9d1d9">React / Next.js / TypeScript</text>
+<g class="r" style="animation-delay:0.470s">
+<text class="m" x="20" y="150.1" fill="#7d8590">LOCATION</text>
+<text class="m" x="102" y="150.1" fill="#484f58">:</text>
+<text class="m" x="112" y="150.1" fill="#c9d1d9">Gujarat, India</text>
 </g>
+<line class="r" x1="20" y1="162.0" x2="448" y2="162.0" stroke="#21262d" style="animation-delay:0.515s"/>
+<text class="m r" x="20" y="180.5" fill="#39d353" font-weight="600" letter-spacing="1.1" style="animation-delay:0.560s">STACK</text>
 <g class="r" style="animation-delay:0.605s">
 <text class="m" x="28" y="195.7" fill="#3d444d">├─</text>
-<text class="m" x="50" y="195.7" fill="#c9d1d9">Node.js / Express / REST APIs</text>
+<text class="m" x="50" y="195.7" fill="#c9d1d9">React / Next.js</text>
 </g>
 <g class="r" style="animation-delay:0.650s">
 <text class="m" x="28" y="210.9" fill="#3d444d">├─</text>
-<text class="m" x="50" y="210.9" fill="#c9d1d9">Flutter / Dart</text>
+<text class="m" x="50" y="210.9" fill="#c9d1d9">Node.js / Express</text>
 </g>
 <g class="r" style="animation-delay:0.695s">
 <text class="m" x="28" y="226.1" fill="#3d444d">├─</text>
-<text class="m" x="50" y="226.1" fill="#c9d1d9">Python / Java / PHP</text>
+<text class="m" x="50" y="226.1" fill="#c9d1d9">Flutter / Dart</text>
 </g>
 <g class="r" style="animation-delay:0.740s">
 <text class="m" x="28" y="241.3" fill="#3d444d">├─</text>
-<text class="m" x="50" y="241.3" fill="#c9d1d9">PostgreSQL / MongoDB / SQLite</text>
+<text class="m" x="50" y="241.3" fill="#c9d1d9">Python</text>
 </g>
 <g class="r" style="animation-delay:0.785s">
 <text class="m" x="28" y="256.5" fill="#3d444d">├─</text>
-<text class="m" x="50" y="256.5" fill="#c9d1d9">Prisma / Firebase / Cloudflare</text>
+<text class="m" x="50" y="256.5" fill="#c9d1d9">PostgreSQL / MongoDB / SQLite</text>
 </g>
 <g class="r" style="animation-delay:0.830s">
-<text class="m" x="28" y="271.7" fill="#3d444d">└─</text>
-<text class="m" x="50" y="271.7" fill="#c9d1d9">OpenAI / Gemini / Claude</text>
+<text class="m" x="28" y="271.7" fill="#3d444d">├─</text>
+<text class="m" x="50" y="271.7" fill="#c9d1d9">Prisma</text>
 </g>
-<line class="r" x1="20" y1="283.6" x2="448" y2="283.6" stroke="#21262d" style="animation-delay:0.875s"/>
-<text class="m r" x="20" y="302.1" fill="#39d353" font-weight="600" letter-spacing="1.1" style="animation-delay:0.920s">BUILDING</text>
-<g class="r" style="animation-delay:0.965s">
-<text class="m" x="28" y="317.3" fill="#3d444d">├─</text>
-<text class="m" x="50" y="317.3" fill="#c9d1d9">SaaS Applications</text>
+<g class="r" style="animation-delay:0.875s">
+<text class="m" x="28" y="286.9" fill="#3d444d">└─</text>
+<text class="m" x="50" y="286.9" fill="#c9d1d9">AI APIs</text>
 </g>
+<line class="r" x1="20" y1="298.8" x2="448" y2="298.8" stroke="#21262d" style="animation-delay:0.920s"/>
+<text class="m r" x="20" y="317.3" fill="#39d353" font-weight="600" letter-spacing="1.1" style="animation-delay:0.965s">BUILDING</text>
 <g class="r" style="animation-delay:1.010s">
 <text class="m" x="28" y="332.5" fill="#3d444d">├─</text>
-<text class="m" x="50" y="332.5" fill="#c9d1d9">AI-Powered Applications</text>
+<text class="m" x="50" y="332.5" fill="#c9d1d9">SaaS Applications</text>
 </g>
 <g class="r" style="animation-delay:1.055s">
-<text class="m" x="28" y="347.7" fill="#3d444d">└─</text>
-<text class="m" x="50" y="347.7" fill="#c9d1d9">Business &amp; POS Software</text>
+<text class="m" x="28" y="347.7" fill="#3d444d">├─</text>
+<text class="m" x="50" y="347.7" fill="#c9d1d9">AI Applications</text>
 </g>
-<line class="r" x1="20" y1="359.6" x2="448" y2="359.6" stroke="#21262d" style="animation-delay:1.100s"/>
-<g class="r" style="animation-delay:1.145s">
-<text class="m" x="20" y="378.1" fill="#7d8590">STATUS</text>
-<text class="m" x="102" y="378.1" fill="#484f58">:</text>
-<text class="m" x="112" y="378.1" fill="#39d353">Building</text>
-<circle cx="176.2" cy="374.1" r="3" fill="#39d353"/>
+<g class="r" style="animation-delay:1.100s">
+<text class="m" x="28" y="362.9" fill="#3d444d">└─</text>
+<text class="m" x="50" y="362.9" fill="#c9d1d9">Business Software</text>
+</g>
+<line class="r" x1="20" y1="374.8" x2="448" y2="374.8" stroke="#21262d" style="animation-delay:1.145s"/>
+<g class="r" style="animation-delay:1.190s">
+<text class="m" x="20" y="393.3" fill="#7d8590">STATUS</text>
+<text class="m" x="102" y="393.3" fill="#484f58">:</text>
+<text class="m" x="112" y="393.3" fill="#39d353">Building</text>
+<circle cx="176.2" cy="389.3" r="3" fill="#39d353"/>
 </g>
 </svg>
