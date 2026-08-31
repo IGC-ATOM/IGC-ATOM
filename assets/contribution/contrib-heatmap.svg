@@ -6,11 +6,11 @@
 .t{fill:#c9d1d9;font-size:12px}
 .m{fill:#7d8590;font-size:10px}
 .a{fill:#39d353;font-size:12px}
-.cell{opacity:0;transform-box:fill-box;transform-origin:center;animation:pop 0.55s ease-out forwards}
-.chrome{opacity:0;animation:fade 0.50s ease-out forwards}
+.cell{transform-box:fill-box;transform-origin:center;animation:pop 0.55s ease-out both}
+.chrome{animation:fade 0.50s ease-out both}
 @keyframes pop{from{opacity:0;transform:scale(.55)}to{opacity:1;transform:scale(1)}}
 @keyframes fade{from{opacity:0}to{opacity:1}}
-@media (prefers-reduced-motion:reduce){.cell,.chrome{animation-duration:.01s;animation-delay:0s!important;opacity:1}}
+@media (prefers-reduced-motion:reduce){.cell,.chrome{animation-duration:.01s;animation-delay:0s!important}}
 </style>
 <rect class="bg" width="846" height="206" rx="8"/>
 <rect x="0.5" y="0.5" width="845" height="205" rx="8" fill="none" stroke="#21262d"/>

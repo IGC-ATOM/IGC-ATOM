@@ -2,9 +2,9 @@
 <title>parth@github &#8212; profile</title>
 <style>
 .m{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:11.5px}
-.r{opacity:0;animation:in 0.42s cubic-bezier(.22,.61,.36,1) forwards}
+.r{animation:in 0.42s cubic-bezier(.22,.61,.36,1) both}
 @keyframes in{from{opacity:0;transform:translateX(-7px)}to{opacity:1;transform:translateX(0)}}
-@media (prefers-reduced-motion:reduce){.r{animation-duration:.01s;animation-delay:0s!important;opacity:1}}
+@media (prefers-reduced-motion:reduce){.r{animation-duration:.01s;animation-delay:0s!important}}
 </style>
 <rect width="468" height="398" rx="8" fill="#0d1117"/>
 <path d="M0 8a8 8 0 0 1 8-8h452 a8 8 0 0 1 8 8v26 H0Z" fill="#161b22"/>

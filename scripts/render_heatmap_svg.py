@@ -123,15 +123,19 @@ def render(payload, empty_note):
     add('.t{fill:%s;font-size:12px}' % TEXT)
     add('.m{fill:%s;font-size:10px}' % MUTED)
     add('.a{fill:%s;font-size:12px}' % ACCENT)
-    add('.cell{opacity:0;transform-box:fill-box;transform-origin:center;'
-        'animation:pop %.2fs ease-out forwards}' % CELL_FADE)
-    add('.chrome{opacity:0;animation:fade %.2fs ease-out forwards}' % CHROME_FADE)
+    # Everything is visible by default; the animation only adds the entrance.
+    # animation-fill-mode:both holds the `from` frame through the stagger delay,
+    # so a sanitiser that drops @keyframes yields the finished graph rather than
+    # an invisible one.
+    add('.cell{transform-box:fill-box;transform-origin:center;'
+        'animation:pop %.2fs ease-out both}' % CELL_FADE)
+    add('.chrome{animation:fade %.2fs ease-out both}' % CHROME_FADE)
     add('@keyframes pop{from{opacity:0;transform:scale(.55)}'
         'to{opacity:1;transform:scale(1)}}')
     add('@keyframes fade{from{opacity:0}to{opacity:1}}')
     # Respect reduced-motion: show the finished state immediately.
     add('@media (prefers-reduced-motion:reduce){'
-        '.cell,.chrome{animation-duration:.01s;animation-delay:0s!important;opacity:1}}')
+        '.cell,.chrome{animation-duration:.01s;animation-delay:0s!important}}')
     add('</style>')
 
     add('<rect class="bg" width="%d" height="%d" rx="8"/>' % (width, height))

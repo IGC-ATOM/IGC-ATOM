@@ -83,11 +83,16 @@ def render():
     add('<style>')
     add('.m{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,'
         '"Liberation Mono",monospace;font-size:%.1fpx}' % FONT)
-    add('.r{opacity:0;animation:in %.2fs cubic-bezier(.22,.61,.36,1) forwards}' % ROW_DUR)
+    # The rows are visible by default and the animation only adds the entrance.
+    # animation-fill-mode:both holds the `from` frame through the delay, so the
+    # stagger still works -- but if a sanitiser strips @keyframes (GitHub does
+    # this in its blob preview) the content simply renders finished instead of
+    # staying stuck at opacity 0.
+    add('.r{animation:in %.2fs cubic-bezier(.22,.61,.36,1) both}' % ROW_DUR)
     add('@keyframes in{from{opacity:0;transform:translateX(-7px)}'
         'to{opacity:1;transform:translateX(0)}}')
     add('@media (prefers-reduced-motion:reduce){'
-        '.r{animation-duration:.01s;animation-delay:0s!important;opacity:1}}')
+        '.r{animation-duration:.01s;animation-delay:0s!important}}')
     add('</style>')
 
     # Window

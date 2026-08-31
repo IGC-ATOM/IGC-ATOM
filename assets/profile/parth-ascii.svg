@@ -7,211 +7,211 @@
 <rect x="0.5" y="0.5" width="391" height="391" rx="8" fill="none" stroke="#21262d"/>
 <defs>
 <clipPath id="w0" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="7.40" width="0" height="8.98">
+<rect x="14.00" y="7.40" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.150s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w1" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="14.40" width="0" height="8.98">
+<rect x="14.00" y="14.40" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.178s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w2" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="21.39" width="0" height="8.98">
+<rect x="14.00" y="21.39" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.206s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w3" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="28.39" width="0" height="8.98">
+<rect x="14.00" y="28.39" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.234s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w4" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="35.38" width="0" height="8.98">
+<rect x="14.00" y="35.38" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.262s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w5" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="42.38" width="0" height="8.98">
+<rect x="14.00" y="42.38" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.290s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w6" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="49.38" width="0" height="8.98">
+<rect x="14.00" y="49.38" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.318s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w7" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="56.37" width="0" height="8.98">
+<rect x="14.00" y="56.37" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.346s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w8" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="63.37" width="0" height="8.98">
+<rect x="14.00" y="63.37" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.374s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w9" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="70.36" width="0" height="8.98">
+<rect x="14.00" y="70.36" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.402s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w10" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="77.36" width="0" height="8.98">
+<rect x="14.00" y="77.36" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.430s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w11" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="84.36" width="0" height="8.98">
+<rect x="14.00" y="84.36" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.458s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w12" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="91.35" width="0" height="8.98">
+<rect x="14.00" y="91.35" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.486s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w13" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="98.35" width="0" height="8.98">
+<rect x="14.00" y="98.35" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.514s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w14" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="105.34" width="0" height="8.98">
+<rect x="14.00" y="105.34" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.542s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w15" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="112.34" width="0" height="8.98">
+<rect x="14.00" y="112.34" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.570s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w16" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="119.34" width="0" height="8.98">
+<rect x="14.00" y="119.34" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.598s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w17" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="126.33" width="0" height="8.98">
+<rect x="14.00" y="126.33" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.626s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w18" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="133.33" width="0" height="8.98">
+<rect x="14.00" y="133.33" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.654s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w19" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="140.32" width="0" height="8.98">
+<rect x="14.00" y="140.32" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.682s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w20" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="147.32" width="0" height="8.98">
+<rect x="14.00" y="147.32" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.710s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w21" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="154.32" width="0" height="8.98">
+<rect x="14.00" y="154.32" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.738s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w22" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="161.31" width="0" height="8.98">
+<rect x="14.00" y="161.31" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.766s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w23" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="168.31" width="0" height="8.98">
+<rect x="14.00" y="168.31" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.794s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w24" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="175.30" width="0" height="8.98">
+<rect x="14.00" y="175.30" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.822s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w25" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="182.30" width="0" height="8.98">
+<rect x="14.00" y="182.30" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.850s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w26" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="189.30" width="0" height="8.98">
+<rect x="14.00" y="189.30" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.878s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w27" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="196.29" width="0" height="8.98">
+<rect x="14.00" y="196.29" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.906s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w28" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="203.29" width="0" height="8.98">
+<rect x="14.00" y="203.29" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.934s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w29" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="210.28" width="0" height="8.98">
+<rect x="14.00" y="210.28" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.962s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w30" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="217.28" width="0" height="8.98">
+<rect x="14.00" y="217.28" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="0.990s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w31" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="224.28" width="0" height="8.98">
+<rect x="14.00" y="224.28" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="1.018s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w32" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="231.27" width="0" height="8.98">
+<rect x="14.00" y="231.27" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="1.046s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w33" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="238.27" width="0" height="8.98">
+<rect x="14.00" y="238.27" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="1.074s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w34" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="245.26" width="0" height="8.98">
+<rect x="14.00" y="245.26" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="1.102s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w35" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="252.26" width="0" height="8.98">
+<rect x="14.00" y="252.26" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="1.130s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w36" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="259.26" width="0" height="8.98">
+<rect x="14.00" y="259.26" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="1.158s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w37" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="266.25" width="0" height="8.98">
+<rect x="14.00" y="266.25" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="1.186s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w38" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="273.25" width="0" height="8.98">
+<rect x="14.00" y="273.25" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="1.214s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w39" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="280.24" width="0" height="8.98">
+<rect x="14.00" y="280.24" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="1.242s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w40" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="287.24" width="0" height="8.98">
+<rect x="14.00" y="287.24" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="1.270s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w41" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="294.24" width="0" height="8.98">
+<rect x="14.00" y="294.24" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="1.298s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w42" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="301.23" width="0" height="8.98">
+<rect x="14.00" y="301.23" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="1.326s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w43" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="308.23" width="0" height="8.98">
+<rect x="14.00" y="308.23" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="1.354s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w44" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="315.22" width="0" height="8.98">
+<rect x="14.00" y="315.22" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="1.382s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w45" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="322.22" width="0" height="8.98">
+<rect x="14.00" y="322.22" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="1.410s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w46" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="329.22" width="0" height="8.98">
+<rect x="14.00" y="329.22" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="1.438s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w47" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="336.21" width="0" height="8.98">
+<rect x="14.00" y="336.21" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="1.466s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w48" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="343.21" width="0" height="8.98">
+<rect x="14.00" y="343.21" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="1.494s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w49" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="350.20" width="0" height="8.98">
+<rect x="14.00" y="350.20" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="1.522s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w50" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="357.20" width="0" height="8.98">
+<rect x="14.00" y="357.20" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="1.550s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 <clipPath id="w51" clipPathUnits="userSpaceOnUse">
-<rect x="14.00" y="364.20" width="0" height="8.98">
+<rect x="14.00" y="364.20" width="364.32" height="8.98">
 <animate attributeName="width" from="0" to="364.32" begin="1.578s" dur="0.34s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
 </rect></clipPath>
 </defs>

@@ -112,13 +112,16 @@ def render(grid, font_size, pad):
         % (width - 1, height - 1, BORDER))
 
     # One clip rect per row, animated from zero width to full: the wipe.
+    # The rect's own width attribute is already the full width, and SMIL's
+    # `from` overrides it while the animation runs. If a sanitiser strips the
+    # <animate>, the art renders complete instead of clipped away to nothing.
     add('<defs>')
     for r in range(len(grid)):
         begin = START + r * ROW_STEP
         y = pad + r * line_h
         add('<clipPath id="w%d" clipPathUnits="userSpaceOnUse">' % r)
-        add('<rect x="%.2f" y="%.2f" width="0" height="%.2f">'
-            % (pad, y - font_size, line_h + font_size * 0.3))
+        add('<rect x="%.2f" y="%.2f" width="%.2f" height="%.2f">'
+            % (pad, y - font_size, art_w, line_h + font_size * 0.3))
         add('<animate attributeName="width" from="0" to="%.2f" begin="%.3fs" '
             'dur="%.2fs" fill="freeze" calcMode="spline" keyTimes="0;1" '
             'keySplines="0.25 0.1 0.25 1"/>' % (art_w, begin, ROW_WIPE))
