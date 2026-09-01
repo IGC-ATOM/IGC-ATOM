@@ -10,19 +10,36 @@ python scripts/fetch_contributions.py --users IGC-ATOM,parthrajpurt16
 python scripts/render_heatmap_svg.py
 ```
 
-* `fetch_contributions.py` reads the public, token-free calendar endpoint
-  (`https://github.com/users/<login>/contributions`) and normalises it into
-  `data/contributions.json` with totals, streaks, best day and monthly sums.
-  Multiple logins are summed and intensity levels recomputed from quartiles.
-* `render_heatmap_svg.py` turns that JSON into
-  `assets/contribution/contrib-heatmap.svg`, animated with a one-shot diagonal
-  reveal.
+`fetch_contributions.py` collects **verified** activity from up to three real
+sources and writes `data/contributions.json`:
 
-Run by `.github/workflows/update-profile-art.yml` every day at 02:40 UTC.
+| source | needs a token | what it counts |
+| :--- | :--- | :--- |
+| `public` | no | GitHub's own published contribution calendar |
+| `commits` | yes (`repo`) | commits authored by the logins, deduped by SHA across every branch of owned repos |
+| `pulls` | yes (`repo`) | pull requests opened by the logins |
 
-> Only **public** contributions appear here. To include private-repo activity,
-> turn on GitHub → Settings → Profile → **Include private contributions on my
-> profile**. No code is exposed by that setting — only daily counts.
+`commits` and `pulls` are disjoint event types and are summed; `public` counts
+the same underlying activity, so it is compared against that sum rather than
+added to it. Each source is stored separately under `sources`, and a run only
+refreshes the sources it was asked for — so the tokenless daily workflow can
+never erase commit data gathered locally with a token.
+
+To refresh everything (needs `gh auth login` or `GITHUB_TOKEN`):
+
+```bash
+python scripts/fetch_contributions.py --users IGC-ATOM,parthrajpurt16 --sources public,commits,pulls
+python scripts/render_heatmap_svg.py
+```
+
+Intensity levels are derived, never the counts: the distinct non-zero daily
+totals are ranked and spread across levels 1-5, so the quietest real day still
+reads above empty and the busiest reaches the top. Dates and counts are stored
+exactly as observed.
+
+> Only **public** activity reaches the `public` source. Turning on GitHub →
+> Settings → Profile → **Include private contributions on my profile** makes
+> the published calendar match what the `commits` source already sees.
 
 ## 2. Portrait and card — manual
 

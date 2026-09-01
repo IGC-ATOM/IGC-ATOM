@@ -11,9 +11,9 @@
 
 <code>parth@github ~ $ ./contributions.sh</code>
 
-<img src="./assets/contribution/contrib-heatmap.svg" alt="Contribution heatmap" width="846">
+<img src="./assets/contribution/contrib-heatmap.svg" alt="Contribution activity" width="880">
 
-<sub>Generated daily from GitHub's <b>public</b> contribution calendar. My repositories are private,<br>so day-to-day work on client and product code does not appear here.</sub>
+<sub>verified GitHub contribution activity</sub>
 
 </div>
 
