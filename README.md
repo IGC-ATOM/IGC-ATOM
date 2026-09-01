@@ -11,7 +11,7 @@
 
 <code>parth@github ~ $ ./contributions.sh</code>
 
-<img src="./assets/contribution/contrib-heatmap.svg" alt="Contribution activity" width="880">
+<img src="./assets/contribution/contrib-heatmap.svg" alt="Contribution activity" width="894">
 
 <sub>verified GitHub contribution activity</sub>
 

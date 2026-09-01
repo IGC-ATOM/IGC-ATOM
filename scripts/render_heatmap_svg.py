@@ -16,7 +16,7 @@ from __future__ import annotations
 
 import argparse
 import json
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 from xml.sax.saxutils import escape
 
@@ -29,8 +29,8 @@ MUTED = "#7d8590"
 DIM = "#565f6a"
 ACCENT = "#39d353"
 
-CELL = 13
-GAP = 3
+CELL = 12
+GAP = 4          # a 1:3 gap keeps adjacent bright cells from reading as one blob
 RADIUS = 3
 LEFT = 32          # room for weekday labels
 TOP = 54           # room for the header row and month labels
@@ -47,18 +47,29 @@ CELL_FADE = 0.42
 CHROME_FADE = 0.45
 
 
+def sunday_on_or_before(day):
+    return day - timedelta(days=(day.weekday() + 1) % 7)
+
+
 def build_grid(days):
-    """Bucket days into calendar columns (weeks), rows 0=Sun..6=Sat."""
-    weeks = []
-    column = [None] * 7
+    """Bucket days into real calendar weeks, columns left to right, rows 0=Sun..6=Sat.
+
+    The column index is measured from the Sunday that opens the first week, so
+    each column is one true Sunday-to-Saturday week. Filling columns
+    sequentially instead would pack seven consecutive days together regardless
+    of where the week actually breaks, sliding every cell into the wrong column
+    whenever the window does not happen to start on a Sunday.
+    """
+    if not days:
+        return []
+    first = date.fromisoformat(days[0]["date"])
+    last = date.fromisoformat(days[-1]["date"])
+    origin = sunday_on_or_before(first)
+
+    weeks = [[None] * 7 for _ in range((last - origin).days // 7 + 1)]
     for entry in days:
-        row = (date.fromisoformat(entry["date"]).weekday() + 1) % 7
-        if column[row] is not None:
-            weeks.append(column)
-            column = [None] * 7
-        column[row] = entry
-    if any(slot is not None for slot in column):
-        weeks.append(column)
+        day = date.fromisoformat(entry["date"])
+        weeks[(day - origin).days // 7][(day.weekday() + 1) % 7] = entry
     return weeks
 
 
